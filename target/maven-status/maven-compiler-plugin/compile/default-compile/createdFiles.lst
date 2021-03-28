@@ -1,0 +1,4 @@
+org\apache\maven\formServerValidation\AppProperties.class
+org\apache\maven\formServerValidation\controller\StartController.class
+org\apache\maven\formServerValidation\model\User.class
+org\apache\maven\formServerValidation\validator\FormValidator.class
